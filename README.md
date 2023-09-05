@@ -15,6 +15,15 @@ It should work the same way as when using `.sheet(isPresented:content:)`.
 (Interesting side note: Other sheet related modifier do work as expected on the .inspector view, when it is displayed as a sheet.)
 
 
+### Other View Modifier
+
+ - 🟩 .presentationDetents()
+ - 🟩 .presentationBackgroundInteraction()
+ - 🟩 .presentationCornerRadius()
+ - 🟩 .presentationDragIndicator()
+ - 🟥 .presentationBackground()
+
+
 ## Example Code
 
 The example shows two toggles to present an .inspector or .sheet view. Both show the same content: A close button using the dismissAction. 
