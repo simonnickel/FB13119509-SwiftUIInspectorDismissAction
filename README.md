@@ -35,4 +35,5 @@ Expected: Both presentation modes should be dismissed the same way.
 
 ## Tested on
 
- - Xcode Version 15.0 beta 8 (15A5229m): iPhone 14 Pro (iOS 17.0),  iPad Pro (11-inch) (iOS 17.0)
+ - Xcode Version 15.0 beta 8 (15A5229m): iPhone 14 Pro (iOS 17.0), iPad Pro (11-inch) (iOS 17.0)
+ - Xcode Version 15.0 RC (15A240d): iPhone 15 Pro (iOS 17.0), iPad Pro (11-inch) (iOS 17.0)
